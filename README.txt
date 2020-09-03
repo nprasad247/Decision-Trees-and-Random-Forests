@@ -1,1 +1,0 @@
-Directions: Run the iPython notebook from top to bottom.
